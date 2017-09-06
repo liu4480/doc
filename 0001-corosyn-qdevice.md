@@ -7,7 +7,8 @@
 
 2. Calculations
 
-    Qdevice no votes = number of nodes - 1. For example, 5 nodes + Qdevice = 5 + 4 = 9 votes
+    for lms, Qdevice no votes = number of nodes - 1. For example, 5 nodes + Qdevice = 5 + 4 = 9 votes
+    for ffplsit, just provide on votes, act as another node
 
 3. Decision algorithms
 
